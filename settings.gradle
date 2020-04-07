@@ -1,0 +1,2 @@
+rootProject.name='Woodys Furniture Shop'
+include ':app'
